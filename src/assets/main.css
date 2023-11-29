@@ -1,0 +1,24 @@
+@import './base.css';
+#app{
+  min-height: 100vh;
+}
+html,
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.page-content{
+  padding-left: 280px;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 280px;
+  min-height: 100%;
+  padding-top: 50px;
+  background-color: #fffddd;
+}
