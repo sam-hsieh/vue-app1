@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as n,c as a,a as c,F as r,b as s}from"./index-4b18e533.js";const _={},l=s("h1",null,"找不到頁面(版型未定)",-1);function u(d,m){const e=t("RouterView");return n(),a(r,null,[l,c(e)],64)}const f=o(_,[["render",u]]);export{f as default};
